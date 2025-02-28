@@ -1,7 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useEffect, useState } from "react";
-import unplugged1 from "../assets/pic.jpg";
-import unplugged from "../assets/pic.jpg";
+import unplugged from "../assets/unplugged.jpg";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
